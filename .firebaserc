@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "quequest-7b34e",
+    "deploy": "quequest-7b34e"
+  },
+  "targets": {}
+}
